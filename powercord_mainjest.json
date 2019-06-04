@@ -1,0 +1,8 @@
+{
+  "name": "Tokyo Ghoul",
+  "description": "Tokyo Ghoul theme featuring Ken Kaneki in ghoul and anteiku form",
+  "version": "0.0",
+  "author": "Neko ONe",
+  "license": "MIT",
+  "theme": "./theme.css"
+  }
