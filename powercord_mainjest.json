@@ -1,8 +1,8 @@
 {
-  "name": "Tokyo Ghoul",
-  "description": "Tokyo Ghoul theme featuring Ken Kaneki in ghoul and anteiku form",
+  "name": "Sasha Braus",
+  "description": "Sasha Braus from Attack on Titan Survey Corps",
   "version": "0.0",
-  "author": "Neko ONe",
+  "author": "Neko One",
   "license": "MIT",
   "theme": "./theme.css"
   }
