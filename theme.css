@@ -1,0 +1,86 @@
+body::before {
+  position: absolute;
+  content: '';
+  height: 100%;
+  width: 100%;
+  background-image: url('https://banner2.kisspng.com/20180603/fou/kisspng-sasha-braus-attack-on-titan-lost-girls-mikasa-ack-5b144d0908cdd6.4125874315280570970361.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  pointer-events: none;
+  box-shadow:inset 0 0 0 1000px var(--backdrop-darkness);
+}
+.layer-3QrUeG,
+.layers-3iHuyZ,
+.container-2lgZY8 {
+	background: transparent !important;
+}
+.chat-3bRxxu .content-yTz4x3 {
+	background-size: cover !important;
+	background-repeat:no-repeat;
+	background: inherit;
+}
+.chat-3bRxxu,
+.noChannel-Z1DQK7 {
+	border-radius: 6px;
+	background: var(--backdropblurred) !important;
+	background-size:cover !important;
+	background-position: center !important;
+	background-attachment: fixed !important;
+}
+/* Light Theme Blocker*/
+.theme-light .layer-3QrUeG:first-of-type::before {
+  content: "This is not a tranparent picture, I personally added Discord dark theme behind the image";
+  text-align:center;
+  width: 500px;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+  background:rgba(0,0,0,0.75);
+  border:1px solid rgba(0,0,0,0.5);
+  box-shadow:0 0 12px black;
+  color:#fff;
+  padding: 20px;
+  padding-bottom:80px;
+  border-radius: 5px;
+}
+.app-2rEoOp.vertical-V37hAW.theme-light .container-2Thooq > .noWrap-3jynv6 > .button-2b6hmh {
+  position: absolute;
+  left: 50%;
+  border-radius:3px;
+  top: 45%;
+  transform: translate(-50%, 120%);
+  width: 180px;
+  height: 40px;
+  visibility: visible !important;
+  background: var(--main-color) !important;
+  box-shadow:0 0 12px black;
+  opacity:1;
+}
+.app-2rEoOp.vertical-V37hAW.theme-light .container-2Thooq > .noWrap-3jynv6 > .button-2b6hmh:before {
+  position: absolute;
+  content: "Turn On Dark Mode";
+  padding:20px;
+  width:200px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 15px;
+  font-weight: 500;
+  text-align: center;
+}
+.theme-light .side-8zPYf6 .item-PXvHYJ:nth-of-type(19) {
+    border:2px solid var(--hover-color);
+    color:var(--hover-color);
+    background:var(--main-color-faded);
+    padding:16px;
+    text-align:center;
+}
+.theme-light .layer-3QrUeG {
+  background:var(--backdropblurred) !important;
+  background-size:cover !important;
+}
+.theme-light .layer-3QrUeG:first-of-type * {
+  visibility:hidden;
+}
