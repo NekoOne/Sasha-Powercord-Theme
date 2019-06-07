@@ -28,6 +28,13 @@ body::before {
 	background-position: center !important;
 	background-attachment: fixed !important;
 }
+#app-mount,
+.divider-3gKybi,
+.typing-2GQL18,
+.typing-2GQL18,
+.guild-1EfMGQ .guildInner-3DSoA4 {
+	background: transparent !important;
+}
 /* Light Theme Blocker*/
 .theme-light .layer-3QrUeG:first-of-type::before {
   content: "This is not a tranparent picture, I personally added Discord dark theme behind the image";
