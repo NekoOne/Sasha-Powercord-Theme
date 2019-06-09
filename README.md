@@ -1,6 +1,8 @@
-# AoT-Powercord-theme
+# Powercord Theme
 
 Sasha Braus Powercord Theme
+
+<img src="https://i.imgur.com/dILdwk6.png" alt="">
 
 # Specs
  Must download Powercord to use this, the coding is not suitible for any other third party use 
