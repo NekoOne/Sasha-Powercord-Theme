@@ -1,3 +1,6 @@
+**__MANIFEST CURRENTLY BROKEN__**
+No matter what I do, the `manifest.json` file is marked as `invalid` in the dev menu and skips the file. I downloaded a theme that was recently updated from a different developer and the same thing happened.
+
 # Powercord Theme
 
 Sasha Braus Powercord Theme
